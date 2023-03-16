@@ -1,4 +1,4 @@
-#Integrating ChatGpt with google sheets and generating Descriptions to the product details entered.
+Integrating ChatGpt with google sheets and generating Descriptions to the product details entered.
 
 1.Create a google sheet with 2 columns naming Product Details and Prodcut Description.
 
